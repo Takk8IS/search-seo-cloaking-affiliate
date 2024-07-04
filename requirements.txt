@@ -1,0 +1,14 @@
+beautifulsoup4
+builtwith
+dnspython
+google
+ipwhois
+nmap
+python-dotenv
+python-whois
+requests
+rich
+shodan
+similarweb
+socket
+tldextract
